@@ -15,7 +15,7 @@ Requirements:  Python 3.4+
 
    From parent directory of source files
 4. ********** Best bet is to run in PyCharm, as some .png resources may not appear if run from command line.
-
+$\mathbf{x+y}$
 Controls:
 
 1. In the main menu, enter/return goes to next screen
